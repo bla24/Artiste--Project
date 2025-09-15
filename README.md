@@ -33,7 +33,8 @@ Chaque classe du modèle est validée par des **tests unitaires JUnit** :
 - `CoordonneesTest`  
 - `LigneTest`  
 - `EllipseTest`  
-- `CercleTest`  
+- `CercleTest`
+- `RectangleTest`
 
 ## 🔮 Extensions possibles  
 - ➕ Ajout de nouvelles formes (rectangle, carré, polygone…).  
